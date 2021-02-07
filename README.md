@@ -19,6 +19,9 @@ This is the configuration for the slicer. I've also included a couple snapshots 
 #### Test Models
 Some test models for verifying the printer (esteps, angle, and long print adhesion). Note that the long print, as you'd probably expect, uses a large amount of material so, if you want to print that, I'd dial in smaller prints first.
 
+### Versions
+Check under the releases tab for stable snapshotted versions of this project. You can always use what is in the master branch, but since it is fluctuating with new work, there may be incorrect information or incompatible parts/software (though I try to keep everything in sync).
+
 ## Note
 This is still a work in progress and you will most definitely find issues. Currently, I've identified a couple outstanding problems in my build:
 1. Adhesion. I'm just gonna say outright that this isn't terrible adhesion. It's just not as good as I like it. It really depends on the model height and surface area touching the belt. You can improve the adhesion slightly by "scuffing" the surface of the belt with sandpaper.
