@@ -33,35 +33,35 @@ Lastly, I'll note, and this is less of an issue and more of a limitation, but th
 ### Parts
 
 #### Printed Parts
-2 - AngledSupport
-2 - BedStandV2
-2 - BeltSlide
-1 - EndSensorHolder
-2 - GantryBraceBottom
-1 - GantryBraceHolderLeft
-1 - GantryBraceHolderRight
-2 - GantryBraceTop
-1 - LcdHolder
-1 - LeftBeltClip
-1 - ModifiedMotorHolder
-1 - PartCoolerVent
-1 - RightBeltClip
-2 - Updated45ZHolder
-2 - UpdatedAxle or UpdatedAxleCrowned or UpdatedAxleSteelRod
-4 - Y_idler
-2 - YExtension
-2 - YExtensionClamp
-11 - YExtensionSupport
+* 2 - AngledSupport
+* 2 - BedStandV2
+* 2 - BeltSlide
+* 1 - EndSensorHolder
+* 2 - GantryBraceBottom
+* 1 - GantryBraceHolderLeft
+* 1 - GantryBraceHolderRight
+* 2 - GantryBraceTop
+* 1 - LcdHolder
+* 1 - LeftBeltClip
+* 1 - ModifiedMotorHolder
+* 1 - PartCoolerVent
+* 1 - RightBeltClip
+* 2 - Updated45ZHolder
+* 2 - UpdatedAxle or UpdatedAxleCrowned or UpdatedAxleSteelRod
+* 4 - Y_idler
+* 2 - YExtension
+* 2 - YExtensionClamp
+* 11 - YExtensionSupport
 
 ##### Optional
 
 1 - Scraper
 
 ###### Extension rollers
-2 or 3 - UpdatedAxle
-4 or 6 - Y_idler
-2 - Yextension
-8 - YExtensionSupport
+* 2 or 3 - UpdatedAxle
+* 4 or 6 - Y_idler
+* 2 - Yextension
+* 8 - YExtensionSupport
 
 #### Purchased Parts
 ##### Belt
