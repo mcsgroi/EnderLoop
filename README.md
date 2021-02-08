@@ -126,7 +126,7 @@ I've tried to make this install as "tool-less" as possible to make it accessible
 * Dremel with a diamond coated cutting bit (or another bit that can cut steel)
 
 #### Optional:
-* You may want to consider purchasing a few nylon washers to go above the springs, but below the heated bed. This will prevent damage to the heated bed from the metal spring. This is more of an Ender 3 design upgrade than an EnderLoop upgrade, but I think it's worth mentioning, especially if you replace the default springs with stronger ones.
+* You may want to consider purchasing a few nylon washers to go above the springs, but below the heated bed. This will prevent damage to the heated bed from the metal spring. This is more of an Ender 3 design upgrade than an EnderLoop mod component, but I think it's worth mentioning, especially if you replace the default springs with stronger ones.
 * I sadly managed to break endstops while I was tinkering with design and assembly. If you find yourself in a similar predicament,
 these work as replacements https://www.amazon.com/gp/product/B08G7Y5C63/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
 * I also unfortunately managed to fry my mainboard (specifically a driver) while I was tinkering and ended up replacing it with https://www.amazon.com/gp/product/B07TYFJ924/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1. These boards are fantastic because the drivers on them are INCREDIBLY quiet. The loudest part on the printer after installing one of these becomes the fans.
