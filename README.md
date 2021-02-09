@@ -87,11 +87,6 @@ cloth or ribbon on the roughed up side for extra adhesion support. If you find t
 you can try to use braided fishing line (https://www.amazon.com/gp/product/B076CMSC63/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1) 
 to stitch the adhered ends together.
 
-#####  T Nuts
-I would recommend buying an assortment pack like https://www.amazon.com/gp/product/B07FPLZXTF/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
-although as I mentioned you mainly need M3 sized parts (and the Ender 3 kit comes with a couple extra M4 T nuts in case you go that route).
-##### M3 Washers
-I would grab a small pack of these, but you shouldn't need more than 4.
 #####  Belt Motor
 The Y motor on the Ender 3 simply doesn't have enough torque to be able to turn the belt.
 I ended up purchasing https://www.amazon.com/gp/product/B07PS4BMSN/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1.
@@ -112,7 +107,10 @@ You will need a lubricant for all of the roller ends. I always use Super Lube.
 ##### Steel Rods - Optional
 I'm listing this here even though it is optional because I **highly** recommend this. These are for the rollers to ensure they don't flex inward. You can make this work without them, but the purely 3d printed one's can't continually handle the stress of sitting without spinning with the belt tensioned on them. With that in mind, you'll want "Tight-Tolerance Oil-Hardening O1 Tool Steel Rod, 0.3020" Diameter, 3 Feet Long" from https://www.mcmaster.com/steel-rods/tight-tolerance-multipurpose-oil-hardening-o1-tool-steel-rods/.
 
-##### Screws
+##### Fasteners
+* T Nuts - I would recommend buying an assortment pack like https://www.amazon.com/gp/product/B07FPLZXTF/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
+although you mainly need M3 sized parts (and the Ender 3 kit comes with a couple extra M4 T nuts in case you go that route).
+* M3 washers to use as spacers for the hotend. You shouldn't need more than 4.
 * Assorted M3/M4 screws, mostly M3 8mm. I would recommend buying an assortment to slot in. 
 Most of it is fairly flexible in what you use. Most holes in the parts I designed are for M3 screws, but you 
 can enlarge the holes in the models if you go with another screw size.
