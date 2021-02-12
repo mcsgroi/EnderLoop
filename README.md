@@ -19,6 +19,9 @@ This is the configuration for the slicer. I've also included a couple snapshots 
 #### Test Models
 Some test models for verifying the printer (esteps, angle, and long print adhesion). Note that the long print, as you'd probably expect, uses a large amount of material so, if you want to print that, I'd dial in smaller prints first.
 
+### Versions
+Check under the releases tab for stable snapshotted versions of this project. You can always use what is in the master branch, but since it is fluctuating with new work, there may be incorrect information or incompatible parts/software (though I try to keep everything in sync).
+
 ## Note
 This is still a work in progress and you will most definitely find issues. Currently, I've identified a couple outstanding problems in my build:
 1. Adhesion. I'm just gonna say outright that this isn't terrible adhesion. It's just not as good as I like it. It really depends on the model height and surface area touching the belt. You can improve the adhesion slightly by "scuffing" the surface of the belt with sandpaper.
@@ -33,35 +36,35 @@ Lastly, I'll note, and this is less of an issue and more of a limitation, but th
 ### Parts
 
 #### Printed Parts
-2 - AngledSupport
-2 - BedStandV2
-2 - BeltSlide
-1 - EndSensorHolder
-2 - GantryBraceBottom
-1 - GantryBraceHolderLeft
-1 - GantryBraceHolderRight
-2 - GantryBraceTop
-1 - LcdHolder
-1 - LeftBeltClip
-1 - ModifiedMotorHolder
-1 - PartCoolerVent
-1 - RightBeltClip
-2 - Updated45ZHolder
-2 - UpdatedAxle or UpdatedAxleCrowned or UpdatedAxleSteelRod
-4 - Y_idler
-2 - YExtension
-2 - YExtensionClamp
-11 - YExtensionSupport
+* 2 - AngledSupport
+* 2 - BedStandV2
+* 2 - BeltSlide
+* 1 - EndSensorHolder
+* 2 - GantryBraceBottom
+* 1 - GantryBraceHolderLeft
+* 1 - GantryBraceHolderRight
+* 2 - GantryBraceTop
+* 1 - LcdHolder
+* 1 - LeftBeltClip
+* 1 - ModifiedMotorHolder
+* 1 - PartCoolerVent
+* 1 - RightBeltClip
+* 2 - Updated45ZHolder
+* 2 - UpdatedAxle or UpdatedAxleCrowned or UpdatedAxleSteelRod
+* 4 - Y_idler
+* 2 - YExtension
+* 2 - YExtensionClamp
+* 11 - YExtensionSupport
 
 ##### Optional
 
 1 - Scraper
 
 ###### Extension rollers
-2 or 3 - UpdatedAxle
-4 or 6 - Y_idler
-2 - Yextension
-8 - YExtensionSupport
+* 2 or 3 - UpdatedAxle
+* 4 or 6 - Y_idler
+* 2 - Yextension
+* 8 - YExtensionSupport
 
 #### Purchased Parts
 ##### Belt
@@ -84,11 +87,6 @@ cloth or ribbon on the roughed up side for extra adhesion support. If you find t
 you can try to use braided fishing line (https://www.amazon.com/gp/product/B076CMSC63/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1) 
 to stitch the adhered ends together.
 
-#####  T Nuts
-I would recommend buying an assortment pack like https://www.amazon.com/gp/product/B07FPLZXTF/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
-although as I mentioned you mainly need M3 sized parts (and the Ender 3 kit comes with a couple extra M4 T nuts in case you go that route).
-##### M3 Washers
-I would grab a small pack of these, but you shouldn't need more than 4.
 #####  Belt Motor
 The Y motor on the Ender 3 simply doesn't have enough torque to be able to turn the belt.
 I ended up purchasing https://www.amazon.com/gp/product/B07PS4BMSN/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1.
@@ -109,7 +107,10 @@ You will need a lubricant for all of the roller ends. I always use Super Lube.
 ##### Steel Rods - Optional
 I'm listing this here even though it is optional because I **highly** recommend this. These are for the rollers to ensure they don't flex inward. You can make this work without them, but the purely 3d printed one's can't continually handle the stress of sitting without spinning with the belt tensioned on them. With that in mind, you'll want "Tight-Tolerance Oil-Hardening O1 Tool Steel Rod, 0.3020" Diameter, 3 Feet Long" from https://www.mcmaster.com/steel-rods/tight-tolerance-multipurpose-oil-hardening-o1-tool-steel-rods/.
 
-##### Screws
+##### Fasteners
+* T Nuts - I would recommend buying an assortment pack like https://www.amazon.com/gp/product/B07FPLZXTF/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1
+although you mainly need M3 sized parts (and the Ender 3 kit comes with a couple extra M4 T nuts in case you go that route).
+* M3 washers to use as spacers for the hotend. You shouldn't need more than 4.
 * Assorted M3/M4 screws, mostly M3 8mm. I would recommend buying an assortment to slot in. 
 Most of it is fairly flexible in what you use. Most holes in the parts I designed are for M3 screws, but you 
 can enlarge the holes in the models if you go with another screw size.
@@ -123,6 +124,7 @@ I've tried to make this install as "tool-less" as possible to make it accessible
 * Dremel with a diamond coated cutting bit (or another bit that can cut steel)
 
 #### Optional:
+* You may want to consider purchasing a few nylon washers to go above the springs, but below the heated bed. This will prevent damage to the heated bed from the metal spring. This is more of an Ender 3 design upgrade than an EnderLoop mod component, but I think it's worth mentioning, especially if you replace the default springs with stronger ones.
 * I sadly managed to break endstops while I was tinkering with design and assembly. If you find yourself in a similar predicament,
 these work as replacements https://www.amazon.com/gp/product/B08G7Y5C63/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
 * I also unfortunately managed to fry my mainboard (specifically a driver) while I was tinkering and ended up replacing it with https://www.amazon.com/gp/product/B07TYFJ924/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1. These boards are fantastic because the drivers on them are INCREDIBLY quiet. The loudest part on the printer after installing one of these becomes the fans.
@@ -181,7 +183,7 @@ To start, you will need to strip down a few parts that are on the Ender 3 alread
 Most of the parts you will be taking off are on the bed. You won't need the timing belt, motor, or aluminum extrusion directly under the bed. I've attached a picture to give you an idea of most of the parts you won't need.
 
 You will need to keep the metal plate, screws, and tightening wheels right under the bed. This metal plate is what you will attach to the BedStand model and you should be able to attach it in the same way the wheels were originally attached (same nuts and bolts).
-Depending on how tight this model is to your aluminum extrusion, you can use T nuts and screws to secure the BedStand more tightly.
+Depending on how tight this model is to your aluminum extrusion, you can use T nuts and screws to secure the BedStand more tightly. As far as replacing the springs that come with the Ender 3, I would recommend experimenting with a few different spring tensions. I used two different varieties of spring since one side of my printer needed to be tightened down more than the other. I would also recommend putting a nylon washer on top of each spring (just under the heated bed) to prevent the spring from scraping the heated bed.
 
 The gantry is mounted at a 45 degree angle. This is accomplished with the Updated45ZHolder and the AngledSupport files. Slide the AngledSupport on first to the aluminum extrusion base and then slide the gantry extrusion into it. Lastly, slide the ModifiedMotorHolder onto the end of the gantry extrusion and screw the Updated45ZHolder into the gantry extrusion (these screws should be the ones that come with the printer) 
 and the base extrusion (these will be the longer M5 screws mentioned on the parts list). I only used two screws on the base extrusion since that seemed sufficiently sturdy.
