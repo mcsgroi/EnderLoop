@@ -14,7 +14,7 @@ Not all of these models are required. I have included a list of what you'll need
 The firmware will need to be flashed to the printer before you attempt to use it. I've included information on this in the instructions, but I've included my latest build of the firmware as well as the source in case you feel like modifying it. If you notice any issues feel free to open an issue or a PR on Github.
 
 #### BlackBelt Cura Config
-This is the configuration for the slicer. I've also included a couple snapshots in the pictures folder of what I'm using for settings on my printer currently, but keep in mind that any number of variables could change those for you (material, printer "quirks", etc.
+This is the configuration for the slicer. I've also included a couple snapshots in the pictures folder of what I'm using for settings on my printer currently, but keep in mind that any number of variables could change those for you (material, printer "quirks", etc.).
 
 #### Test Models
 Some test models for verifying the printer (esteps, angle, and long print adhesion). Note that the long print, as you'd probably expect, uses a large amount of material so, if you want to print that, I'd dial in smaller prints first.
