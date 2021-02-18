@@ -253,7 +253,7 @@ Then you can install the LcdHolder on the right YExtension using T nuts and some
 Lastly, if you want an extension with rollers for longer prints, you can print out additional YExtension's, YExtensionSupport's (4 for each extension, go on the bottom half), and UpdatedYIdler's/UpdatedAxle's (as many as you'd like really, 2 UpdatedYIdler's per UpdatedAxle).
 
 ### Sources
-I went through quite a few sources online to learn enough to make this happen. I wanted to list a few to acknowledge and also for anyone who wants to learn more. In particular I wanted to mention the Infinity Ender project on Thingiverse. The y idler and the 45 degree gantry holder (made a few modifications to this model) come from there. I also wanted to mention the aluminum extrusion Thingiverse entry in this list. I based my y extensions off of that model.
+I went through quite a few sources online to learn enough to make this happen. I wanted to list a few to acknowledge and also for anyone who wants to learn more. In particular I wanted to mention the Infinity Ender project on Thingiverse which provided a lot of the part inspiration. I also wanted to mention the aluminum extrusion Thingiverse entry in this list. I based my y extensions off of that model.
 https://www.thingiverse.com/thing:4267968
 https://www.instructables.com/Turn-Your-3D-Printer-Into-a-Factory-Automatically-/
 https://hackaday.io/project/114738-automatic-infinite-3d-printer/log/146614-ejecting-parts-from-workhorse-3d-printer-mk-3/discussion-122983
