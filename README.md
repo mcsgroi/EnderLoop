@@ -177,6 +177,8 @@ Everything else should be wired the same.
 ### Print settings
 Everything was printed somewhere between a 20-30% infill except for the axles which were printed at 60% infill and the RightBeltClip which was printed at 80% infill.
 
+You also may find the part tolerances to be too tight or too loose depending on how your printer is calibrated. You can either modify the models slightly to increase/decrease the size or use the horizontal expansion setting in Cura adjust the part prints.
+
 ### Assembly
 Assembly is fairly straight forward and most of it should make sense off of the pictures. 
 To start, you will need to strip down a few parts that are on the Ender 3 already. 
