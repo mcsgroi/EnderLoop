@@ -51,7 +51,7 @@ Lastly, I'll note, and this is less of an issue and more of a limitation, but th
 * 1 - RightBeltClip
 * 2 - Updated45ZHolder
 * 2 - UpdatedAxle or UpdatedAxleCrowned or UpdatedAxleSteelRod
-* 4 - Y_idler
+* 4 - UpdatedYIdler
 * 2 - YExtension
 * 2 - YExtensionClamp
 * 11 - YExtensionSupport
@@ -62,7 +62,7 @@ Lastly, I'll note, and this is less of an issue and more of a limitation, but th
 
 ###### Extension rollers
 * 2 or 3 - UpdatedAxle
-* 4 or 6 - Y_idler
+* 4 or 6 - UpdatedYIdler
 * 2 - Yextension
 * 8 - YExtensionSupport
 
@@ -217,9 +217,9 @@ I would recommend option 3. Should you go this route, the only additional work y
 2. Insert the steel rod pieces into two UpdatedAxleSteelRod prints. If it won't go through, I'd run a drill bit of a _slightly_ larger diameter through the inside of the model to loosen the tolerance.
 3. If the steel rod sticks a bit, that's fine. I used a hammer to finish the job. Having it tight is perfectly fine (and actually makes it a bit simpler to install). If it isn't tight, you'll want to apply an adhesive to keep it in place so it doesn't slide out.
 
-No matter which of the roller options you choose, you will install one of the rollers using two Y_idler's and T nuts at the back of the printer (just behind the bed).
+No matter which of the roller options you choose, you will install one of the rollers using two UpdatedYIdler's and T nuts at the back of the printer (just behind the bed).
 The next roller you'll be installing will be the one that the motor drives. The roller model itself won't be able to grip the belt as it stands. You need to coat this roller, including the teeth, in a thin coating of something "grippy". I found FlexSeal paint worked well.
-Then you will need to mount this roller using two Y_idler's and T nuts at the front of the printer (between the ModifiedMotorHolder and the bed).
+Then you will need to mount this roller using two UpdatedYIdler's and T nuts at the front of the printer (between the ModifiedMotorHolder and the bed).
 
 You then install two BeltSlide's. One goes on the back side of the print bed (on that metal plate under the bed, kind of between the tightening wheels) and one on the front side (between the other two tightening wheels).
 
@@ -250,7 +250,7 @@ The timing belt will then go around the teeth on the axle and the pulley.
 Then you can install the LcdHolder on the right YExtension using T nuts and some screws (don't recall the size on these, had a few laying around).
 
 #### Optional
-Lastly, if you want an extension with rollers for longer prints, you can print out additional YExtension's, YExtensionSupport's (4 for each extension, go on the bottom half), and Y_idler's/UpdatedAxle's (as many as you'd like really, 2 Y_idler's per UpdatedAxle).
+Lastly, if you want an extension with rollers for longer prints, you can print out additional YExtension's, YExtensionSupport's (4 for each extension, go on the bottom half), and UpdatedYIdler's/UpdatedAxle's (as many as you'd like really, 2 UpdatedYIdler's per UpdatedAxle).
 
 ### Sources
 I went through quite a few sources online to learn enough to make this happen. I wanted to list a few to acknowledge and also for anyone who wants to learn more. In particular I wanted to mention the Infinity Ender project on Thingiverse. The y idler and the 45 degree gantry holder (made a few modifications to this model) come from there. I also wanted to mention the aluminum extrusion Thingiverse entry in this list. I based my y extensions off of that model.
