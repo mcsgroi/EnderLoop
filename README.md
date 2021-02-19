@@ -258,13 +258,23 @@ Lastly, if you want an extension with rollers for longer prints, you can print o
 
 ### Sources
 I went through quite a few sources online to learn enough to make this happen. I wanted to list a few to acknowledge and also for anyone who wants to learn more. In particular I wanted to mention the Infinity Ender project on Thingiverse which provided a lot of the part inspiration. I also wanted to mention the aluminum extrusion Thingiverse entry in this list. I based my y extensions off of that model.
+
 https://www.thingiverse.com/thing:4267968
+
 https://www.instructables.com/Turn-Your-3D-Printer-Into-a-Factory-Automatically-/
+
 https://hackaday.io/project/114738-automatic-infinite-3d-printer/log/146614-ejecting-parts-from-workhorse-3d-printer-mk-3/discussion-122983
+
 https://www.thingiverse.com/thing:280318
+
 https://hackaday.io/project/114738/instructions
+
 https://www.reddit.com/r/3Dprinting/comments/4tc1x8/part_removal_conveyor_belt_thingy_for_larger/
+
 https://www.thingiverse.com/thing:3434404
+
 https://forum.duet3d.com/topic/8332/modded-ender-3-conveyor-concept/2
+
 https://blackbelt-3d.com/the-blackbelt-3d-printer/
+
 https://www.youtube.com/watch?v=czozhy7kjwc&feature=youtu.be
