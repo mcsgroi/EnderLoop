@@ -2,6 +2,8 @@
 # EnderLoop
 This supports around a 110x200xinfinity bed size.
 
+[Here](https://www.youtube.com/watch?v=L337KpcwrPk&feature=youtu.be)'s a great video with Adam at PowerBelt3D discussing the EnderLoop.
+
 What's in this project:
 
 #### Pictures
@@ -71,7 +73,7 @@ Lastly, I'll note, and this is less of an issue and more of a limitation, but th
 Currently there are 3 options (there may be a 4th option when Creality's CR-30 belt is officially released):
 1. Buy a custom belt. There are some sites that are willing to sell a custom belt. I believe BuildTak is willing to custom make a belt, however the price is fairly steep (based on my research on the WhiteKnight printer).
 2. DIY. I'll include a section here on how to make a belt yourself should you want to. Note that it's going to take some patience to get a clean surface and the performance (adhesion and ability of the roller to grip the belt) will be worse than option 3. The price point for this option is also going to be about the same as option 3.
-3. POWERBELT3D ZERO. I've reached out to Adam at PowerBelt and he was willing to list a custom belt that he has been working on that is specifically designed for the EnderLoop on his store. This is what I use right now and has pretty good characteristics. A couple of notes from the PowerBelt folks on this:
+3. [POWERBELT3D Belt](https://powerbelt3d.com/product/formula32-conveyor-belt-for-enderloop/). I've reached out to Adam at PowerBelt and he was willing to list a custom belt that he has been working on that is specifically designed for the EnderLoop on his store. This is what I use right now and has pretty good characteristics. A couple of notes from the PowerBelt folks on this:
 	* For PLA, we recommend a bed temperature of 60-70C.  
     * For PETG and TPU, they recommend a bed temperature of 70-80C. PETG tends to stick  _very_  well to the Polyester top layer, and might rip the material. They also recommend applying glue stick to the conveyor belt as a release agent to prevent this. If tearing still occurs, increasing the speed of outer contour that contacts the conveyor belt may help.
 
@@ -242,6 +244,8 @@ Less deformities in the tape is better as it will increase adhesion and lower mo
 --- 
 ###### PowerBelt Belt Installation
 From the folks at PowerBelt: https://youtu.be/ShYZX8OavIs 
+
+I will also note here that it can be helpful to lightly scuff the surface of the belt with sandpaper to increase the adhesion a bit.
 
 --- 
 
