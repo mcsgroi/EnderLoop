@@ -278,3 +278,6 @@ https://forum.duet3d.com/topic/8332/modded-ender-3-conveyor-concept/2
 https://blackbelt-3d.com/the-blackbelt-3d-printer/
 
 https://www.youtube.com/watch?v=czozhy7kjwc&feature=youtu.be
+
+### License
+EnderLoop is licensed under the [Creative Commons - Attribution - Non-Commercial license](https://creativecommons.org/licenses/by-nc/4.0/).
