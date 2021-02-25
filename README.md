@@ -4,7 +4,15 @@ This supports around a 110x200xinfinity bed size.
 
 [Here](https://www.youtube.com/watch?v=L337KpcwrPk&feature=youtu.be)'s a great video with Adam at PowerBelt3D discussing the EnderLoop.
 
-What's in this project:
+### Donations
+If you find this project helpful and want to send me a cup of coffee, feel free to use this button
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?business=MDG4UT7U4YFHJ&item_name=EnderLoop+tips&currency_code=USD)
+
+&nbsp; 
+&nbsp;  
+&nbsp;  
+**What's in this project:**
 
 #### Pictures
 I've attached a few pictures. Models in the printer pictures should mirror what is in the latest source files. Any differences should be minimal and are usually just that I'm running a slightly older version of the model to save on plastic waste. I've also included some test print pics to demonstrate the quality of what I'm getting off of the EnderLoop. In the pictures with two benchies, the black one is off of the belt printer whereas the white one is from a CR-6 SE as a comparison point.
@@ -281,8 +289,3 @@ https://www.youtube.com/watch?v=czozhy7kjwc&feature=youtu.be
 
 ### License
 EnderLoop is licensed under the [Creative Commons - Attribution - Non-Commercial license](https://creativecommons.org/licenses/by-nc/4.0/).
-
-### Donations
-If you find this project helpful and want to send me a cup of coffee, feel free to use this button
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?business=MDG4UT7U4YFHJ&item_name=EnderLoop+tips&currency_code=USD)
