@@ -281,3 +281,8 @@ https://www.youtube.com/watch?v=czozhy7kjwc&feature=youtu.be
 
 ### License
 EnderLoop is licensed under the [Creative Commons - Attribution - Non-Commercial license](https://creativecommons.org/licenses/by-nc/4.0/).
+
+### Donations
+If you find this project helpful and want to send me a cup of coffee, feel free to use this button
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?business=MDG4UT7U4YFHJ&item_name=EnderLoop+tips&currency_code=USD)
