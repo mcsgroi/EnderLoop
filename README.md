@@ -180,7 +180,7 @@ As far as wiring goes, there are a few things to keep in mind. Look at the stepp
 You'll note the middle two wires are inverted. Make sure you keep a close eye on whether a cable is supposed to have those wires
 inverted or not. The motor I purchased to drive the belt did not want those wires inverted, but all the Ender 3 motors do.
 One other thing to keep in mind is that all belt printers treat what we would normally consider the Y direction as Z. To 
-accomodate this, you will need to plug the belt motor into the Y slot on the mainboard and the gantry motor into the Y slot on the mainboard.
+accommodate this, you will need to plug the belt motor into the Z slot on the mainboard and the gantry motor into the Y slot on the mainboard.
 You will also need to plug the gantry end stop switch into the Y slot on the mainboard. You don't need a Z end stop switch (since there is no zero on a belt). 
 Everything else should be wired the same.
 
